@@ -14,3 +14,11 @@ let age =14;
 // hdhrgyrfv
 // gytgytftrresx
 //GYTFRSEWAZS
+console.log("2">1);
+console.log("003">11);
+console.log(null>0);
+console.log(null==0);
+
+
+
+

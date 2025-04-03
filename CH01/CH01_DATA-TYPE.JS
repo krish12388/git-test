@@ -13,3 +13,4 @@ let age =14;
 // object {null is also a boject}{if we print console.log(typeof null) => object}
 // hdhrgyrfv
 // gytgytftrresx
+//GYTFRSEWAZS

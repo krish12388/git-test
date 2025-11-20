@@ -1,6 +1,7 @@
 import express from "express";
 
 const app = express();
+app.use(express.static('dist'));
 const PORT =4000;
 // app.get("/",(req,res)=>{
 //     res.json({

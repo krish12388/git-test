@@ -1,5 +1,5 @@
 import express from "express";
-
+// commented code for testing server
 const app = express();
 app.use(express.static('dist'));
 const PORT =4000;
